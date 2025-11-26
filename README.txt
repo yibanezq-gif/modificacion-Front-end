@@ -18,10 +18,5 @@ Cómo ejecutar:
 4. Regístrate en "registro.html", luego ingresa en "ingreso.html".
 5. Selecciona servicios, agrega productos y confirma pedido.
 
-Notas:
-- Los datos se guardan en localStorage del navegador (simulación). No hay base de datos real.
-- Para ver datos guardados: abre DevTools (F12) > Application > Local Storage.
-- Si deseas reiniciar todo: en DevTools > Application > Clear Storage o borra los items 'users', 'cart', 'orders', 'currentUser' en localStorage.
 
-Soporte:
-- Si deseas que conecte el proyecto a una base de datos o cree una versión con servidor (Node.js / PHP), dime y te explico el siguiente paso.
+
